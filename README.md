@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is At halah and I'm a Student, from Indonesia</h2>
 
 ###
 
